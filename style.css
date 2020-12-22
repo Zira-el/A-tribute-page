@@ -12,18 +12,17 @@ body {
   }
   
   #img-div{
-  width: 600px; 
+  width: 800px; 
   position: relative;
   margin: auto;
   background-color: #bfefff;
-    
   }
   
   #image{
-  max-width: 100%;
-  height: auto;
-  text-align: center;
-  display: block;
+   max-width: 100%;
+   height: auto;
+   text-align: center;
+   display: block;
   }
   
   #img-caption {
