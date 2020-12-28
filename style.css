@@ -14,7 +14,7 @@ body {
   
   .center {
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
   }
   
   #img-div{
@@ -52,4 +52,9 @@ body {
 
   .courier {
     font-family: 'Courier New', Courier, monospace;
+  }
+
+  .preenchimento {
+    padding-top: 2%;
+    padding-bottom: 1%;
   }
