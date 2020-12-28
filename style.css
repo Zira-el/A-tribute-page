@@ -42,10 +42,14 @@ body {
     margin: 3% 23% 3% 23%;    
   }
 
-  #tribute-link {
+  .center-link {
     text-align: center;
   }
  
   .padding-txt {
     padding-bottom: 25px;
+  }
+
+  .courier {
+    font-family: 'Courier New', Courier, monospace;
   }
